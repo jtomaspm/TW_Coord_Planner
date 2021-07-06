@@ -1,0 +1,5 @@
+Zone,above,under,left,right
+Zona1,None,None,500,None
+Zona2,500,None,None,499
+Zona3,None,499,None,499
+Fakes,None,None,None,None

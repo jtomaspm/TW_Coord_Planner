@@ -1,0 +1,277 @@
+Hora: 12:00:00
+Data: 23/03/2022
+
+mialou11
+
+Zona1
+
+433|405 : 5 fulls 
+433|403 : 5 fulls 
+434|405 : 5 fulls 
+435|405 : 5 fulls 
+435|406 : 5 fulls 
+434|407 : 5 fulls 
+436|407 : 2 fulls 
+
+
+Zona2
+
+
+
+Zona3
+
+
+
+Fakes
+
+449|549 : 7 fulls 
+457|547 : 7 fulls 
+500|569 : 4 fulls 
+445|551 : 7 fulls 
+506|576 : 5 fulls 
+
+
+PekZeus
+
+Zona1
+
+436|407 : 3 fulls 
+434|408 : 5 fulls 
+434|409 : 5 fulls 
+431|405 : 5 fulls 
+
+
+Zona2
+
+
+
+Zona3
+
+
+
+Fakes
+
+506|576 : 2 fulls 
+502|568 : 7 fulls 
+503|567 : 7 fulls 
+449|557 : 5 fulls 
+507|576 : 7 fulls 
+493|571 : 2 fulls 
+
+
+pay2win?
+
+Zona1
+
+439|407 : 5 fulls 
+439|409 : 1 fulls 
+
+
+Zona2
+
+
+
+Zona3
+
+
+
+Fakes
+
+495|570 : 7 fulls 
+486|555 : 7 fulls 
+493|562 : 7 fulls 
+493|569 : 7 fulls 
+449|557 : 2 fulls 
+
+
+damapatuxa
+
+Zona1
+
+439|409 : 4 fulls 
+437|409 : 5 fulls 
+435|411 : 3 fulls 
+
+
+Zona2
+
+
+
+Zona3
+
+
+
+Fakes
+
+493|571 : 5 fulls 
+495|564 : 7 fulls 
+505|559 : 7 fulls 
+454|546 : 7 fulls 
+449|551 : 4 fulls 
+
+
+rjbeast
+
+Zona1
+
+
+
+Zona2
+
+496|436 : 4 fulls 
+495|436 : 4 fulls 
+491|439 : 4 fulls 
+491|441 : 4 fulls 
+489|442 : 4 fulls 
+488|442 : 4 fulls 
+487|442 : 4 fulls 
+486|439 : 4 fulls 
+486|438 : 4 fulls 
+488|435 : 4 fulls 
+488|436 : 4 fulls 
+486|434 : 4 fulls 
+490|444 : 2 fulls 
+
+
+Zona3
+
+
+
+Fakes
+
+470|545 : 6 fulls 
+478|532 : 7 fulls 
+502|588 : 7 fulls 
+477|568 : 7 fulls 
+500|569 : 3 fulls 
+
+
+cavador10
+
+Zona1
+
+
+
+Zona2
+
+490|444 : 2 fulls 
+491|444 : 4 fulls 
+490|445 : 4 fulls 
+488|445 : 4 fulls 
+487|446 : 4 fulls 
+486|447 : 2 fulls 
+
+
+Zona3
+
+550|613 : 3 fulls 
+553|616 : 8 fulls 
+554|616 : 8 fulls 
+556|615 : 1 fulls 
+
+
+Fakes
+
+453|550 : 7 fulls 
+452|545 : 7 fulls 
+501|564 : 7 fulls 
+451|548 : 7 fulls 
+477|541 : 2 fulls 
+
+
+JotaCe
+
+Zona1
+
+
+
+Zona2
+
+486|447 : 2 fulls 
+489|448 : 4 fulls 
+490|449 : 4 fulls 
+491|448 : 2 fulls 
+
+
+Zona3
+
+556|615 : 7 fulls 
+560|615 : 8 fulls 
+559|613 : 8 fulls 
+557|609 : 7 fulls 
+
+
+Fakes
+
+481|539 : 3 fulls 
+462|555 : 7 fulls 
+470|543 : 7 fulls 
+447|545 : 7 fulls 
+483|535 : 6 fulls 
+
+
+filipemn
+
+Zona1
+
+
+
+Zona2
+
+491|448 : 2 fulls 
+494|448 : 4 fulls 
+507|385 : 6 fulls 
+508|385 : 6 fulls 
+507|386 : 6 fulls 
+505|386 : 3 fulls 
+
+
+Zona3
+
+553|611 : 2 fulls 
+550|612 : 8 fulls 
+550|613 : 5 fulls 
+
+
+Fakes
+
+477|541 : 5 fulls 
+448|550 : 7 fulls 
+470|538 : 7 fulls 
+456|567 : 7 fulls 
+481|539 : 4 fulls 
+
+
+- L0rdRAD
+
+Zona1
+
+
+
+Zona2
+
+
+
+Zona3
+
+557|612 : 8 fulls 
+558|613 : 8 fulls 
+556|614 : 8 fulls 
+555|614 : 8 fulls 
+555|613 : 8 fulls 
+555|611 : 8 fulls 
+557|610 : 8 fulls 
+556|610 : 8 fulls 
+553|611 : 6 fulls 
+
+
+Fakes
+
+532|577 : 7 fulls 
+501|569 : 7 fulls 
+483|535 : 1 fulls 
+459|568 : 7 fulls 
+445|548 : 7 fulls 
+470|545 : 1 fulls 
+
+
